@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616618875717",
+    "firebase_url": "https://bookcity-14eac-default-rtdb.firebaseio.com",
+    "project_id": "bookcity-14eac",
+    "storage_bucket": "bookcity-14eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616618875717:android:f25df1490f694b1365fc2c",
+        "android_client_info": {
+          "package_name": "com.example.bookcity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616618875717-0bu6ngvmaemg4ajh04r1m6gsh0g82gvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQIvYSmiwyFleeG-tOgNfrVktb1_fAy60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616618875717-0bu6ngvmaemg4ajh04r1m6gsh0g82gvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

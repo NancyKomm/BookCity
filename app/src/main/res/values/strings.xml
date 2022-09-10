@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">BookCity</string>
+    <string name="key">key</string>
+    <string name="price">Price</string>
+    <string name="language">Language</string>
+    <string name="pages">Pages</string>
+    <string name="author">Author</string>
+    <string name="quantity">Quantity</string>
+    <string name="buy">Buy</string>
+    <string name="title">Title</string>
+    <string name="plot_information">Plot Information</string>
+    <string name="todo">TODO</string>
+    <string name="enter_email">Enter Email:</string>
+    <string name="password">password</string>
+    <string name="enter_password">Enter Password:</string>
+    <string name="email">email</string>
+    <string name="log_in">log in</string>
+    <string name="sign_up">sign up</string>
+    <string name="welcome">Welcome</string>
+    <string name="e_mail">e-mail</string>
+    <string name="repeat_password">Repeat password:</string>
+    <string name="i_have_read_and_accept_the_terms_and_conditions">I have read and accept the Terms and Conditions</string>
+</resources>
